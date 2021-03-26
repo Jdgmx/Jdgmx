@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Jdgmx
+- 👀 I’m interested in development on Apple platforms.
+- 🌱 I’m currently learning SwiftUI and Combine.
+- 💞️ I’m looking to collaborate on developing a warp drive.
+- 📫 How to reach me @jdgmx
